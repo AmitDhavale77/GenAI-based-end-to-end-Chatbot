@@ -1,4 +1,4 @@
-# End-to-end-Chatbot-using-Llama2
+# End-to-end-Chatbot-using-Claude-3
 
 ## Project Overview
 
